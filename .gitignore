@@ -1,0 +1,13 @@
+# PDFはいらない
+*.pdf
+*.PDF
+pdf/
+
+# Jsonlにログを残すのでいらない
+*.jsonl
+
+# venvはいらない
+venv/
+
+# タスク表はいらない
+to_do.md
